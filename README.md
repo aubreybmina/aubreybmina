@@ -1,8 +1,8 @@
-<!--START_SECTION:waka-->
+<div><!--START_SECTION:waka-->
 
-<div> ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2016%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue) </div>
+ ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2016%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue) 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--></div>
 
 ## About Me
 
