@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-<div style="align:center;"> ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2016%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue) </div>
+<div> ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2016%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue) </div>
 
 <!--END_SECTION:waka-->
 
