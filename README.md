@@ -30,9 +30,7 @@
 
 <div align="center";>
 
-[![Aubrey Mina's Top Language](https://github-readme-stats-ashy-seven-39.vercel.app/api/top-langs/?username=aubreybmina&count_private=true&show_icons=true)](https://github.com/aubreybmina) 
-
-[![Aubrey Mina's GitHub](https://github-readme-stats-ashy-seven-39.vercel.app/api?username=aubreybmina&count_private=true&show_icons=true&hide_rank=true)](https://github.com/aubreybmina)
+[![Aubrey Mina's Top Language](https://github-readme-stats-ashy-seven-39.vercel.app/api/top-langs/?username=aubreybmina&count_private=true&show_icons=true&locale=en&layout=compact)](https://github.com/aubreybmina) [![Aubrey Mina's GitHub](https://github-readme-stats-ashy-seven-39.vercel.app/api?username=aubreybmina&count_private=true&show_icons=true&hide_rank=true)](https://github.com/aubreybmina)
 
 <div>
 
