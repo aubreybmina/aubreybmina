@@ -1,3 +1,8 @@
+<div align="right";>
+ 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faubreybmina"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faubreybmina&label=VISITORS&countColor=%23263759" /></a>
+</div>
+
 ## About Me
 
 - 👋 Hi, I’m **Aubrey Mina** based from Auckland, New Zealand
@@ -24,6 +29,9 @@
 [![Aubrey Mina's GitHub](https://github-readme-stats-ashy-seven-39.vercel.app/api?username=aubreybmina&count_private=true&show_icons=true&hide_rank=true)](https://github.com/aubreybmina)
 
 <div>
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faubreybmina&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faubreybmina)
 
  <!---
 aubreybmina/aubreybmina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
