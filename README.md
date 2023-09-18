@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m **Aubrey Mina** based from Auckland, New Zealand
 - 👀 I’m interested in **software development** 👨‍💻, **web development** 🌐, and **proptech** 🏢.
-- 🌱 I’m currently learning **DevOps**, **PowerBI**, **NextJS** and **TailwindCSS**.
+- 🌱 I’m currently learning **DevOps**, **SAP Fiori**, **NextJS** and **TailwindCSS**.
 - 💞️ I’m open to explore opportunities in companies that would help me grow my professional IT career.
 - 📫 You can reach on my <a href='https://www.linkedin.com/in/aubrey-blancas/' target='_blank'>LinkedIn</a> or send me a message here <aubreybmina@gmail.com>.
 - Visit my <a href='https://aubrey-mina.netlify.app/' target='_blank'>Portfolio Website</a> to know more about me and my projects 😊 
